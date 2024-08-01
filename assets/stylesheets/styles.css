@@ -36,9 +36,10 @@
     font-size: 1.2rem;
   }
 
-  button {
+  .button {
     background-color: var(--primary-color);
     color: #000000;
+    text-decoration: none;
   }
 
   .screenshot {
